@@ -42,8 +42,8 @@ do
 done
 
 curl https://www.jitec.ipa.go.jp/1_04hanni_sukiru/mondai_kaitou_2019h31_1/2019h31h_ap_am_qs.pdf > ./Questions/2019h31h_ap_am_qs.pdf
-curl https://www.jitec.ipa.go.jp/1_04hanni_sukiru/mondai_kaitou_2019h31_2/2019r01a_ap_am_qs.pdf > ./Questions/2019h01a_ap_am_qs.pdf
+curl https://www.jitec.ipa.go.jp/1_04hanni_sukiru/mondai_kaitou_2019h31_2/2019r01a_ap_am_qs.pdf > ./Questions/2019r01a_ap_am_qs.pdf
 curl https://www.jitec.ipa.go.jp/1_04hanni_sukiru/mondai_kaitou_2019h31_1/2019h31h_ap_am_ans.pdf > ./Answers/2019h31h_ap_am_ans.pdf
-curl https://www.jitec.ipa.go.jp/1_04hanni_sukiru/mondai_kaitou_2019h31_2/2019r01a_ap_am_ans.pdf > ./Answers/2019h01a_ap_am_ans.pdf
+curl https://www.jitec.ipa.go.jp/1_04hanni_sukiru/mondai_kaitou_2019h31_2/2019r01a_ap_am_ans.pdf > ./Answers/2019r01a_ap_am_ans.pdf
 
 echo "Finish!!"
