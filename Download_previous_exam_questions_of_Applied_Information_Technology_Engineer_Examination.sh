@@ -3,7 +3,7 @@
 # Applied Information Technology Engineer Examination (応用情報技術者試験)
 # You can download previous exam questions. (過去問題一括ダウンロード)
 
-# Questons AM
+# Questions AM
 # https://www.jitec.ipa.go.jp/1_04hanni_sukiru/mondai_kaitou_2009h21_1/2009h21h_ap_am_qs.pdf
 # https://www.jitec.ipa.go.jp/1_04hanni_sukiru/mondai_kaitou_2009h21_2/2009h21a_ap_am_qs.pdf
 # ...
@@ -12,7 +12,7 @@
 # https://www.jitec.ipa.go.jp/1_04hanni_sukiru/mondai_kaitou_2019h31_1/2019h31h_ap_am_qs.pdf
 # https://www.jitec.ipa.go.jp/1_04hanni_sukiru/mondai_kaitou_2019h31_2/2019r01a_ap_am_qs.pdf
 
-# Questons PM
+# Questions PM
 # https://www.jitec.ipa.go.jp/1_04hanni_sukiru/mondai_kaitou_2009h21_1/2009h21h_ap_pm_qs.pdf
 # https://www.jitec.ipa.go.jp/1_04hanni_sukiru/mondai_kaitou_2009h21_2/2009h21a_ap_pm_qs.pdf
 # ...
